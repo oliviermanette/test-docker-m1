@@ -1,0 +1,4 @@
+docker-composer up --build
+
+
+On the browser: http://localhost:443/
